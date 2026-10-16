@@ -3,7 +3,8 @@
 **Identitas Mahasiswa:**
 - **Nama**  : Anggela Merici Moruk
 - **NIM**   : 241011401654
-- **Kelas** : Reg B
+- **Kelas** : 05TPLM004
+- **Reg**   : B
 - **Prodi** : Teknik Informatika - Universitas Pamulang
 
 ---
