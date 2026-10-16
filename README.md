@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Ringkasan Hasil UTS
+## Ringkasan Hasil UTS
 
 ### 1. Bagian A – Linear Regression (Ads_Data.csv)
 - **Normal Equation**:
